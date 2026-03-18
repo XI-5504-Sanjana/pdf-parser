@@ -1,0 +1,5 @@
+pymupdf
+camelot-py[cv]
+pytesseract
+pillow
+pdf2image

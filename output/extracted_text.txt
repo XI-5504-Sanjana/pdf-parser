@@ -1,0 +1,2450 @@
+
+--- Page 1 Text ---
+        
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+DATED 6 December 2023 
+ 
+ 
+ 
+
+ABU DHABI COMMERCIAL BANK PJSC 
+ 
+ 
+
+and 
+ 
+ 
+
+ XEBIA MIDDLE EAST SOFTWARE TRADING L.L.C 
+ 
+ 
+ 
+ 
+
+ADCB Contract Reference: IT-2023-045 
+ 
+ 
+ 
+
+Statement of Work No. IT-2023-045-A 
+
+Referencing MASTER SERVICES AGREEMENT – CLOUD DATED 
+
+20 November 2023 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Page 2 Text ---
+        
+ 
+ 
+ 
+
+ 
+
+STATEMENT OF WORK No. IT-2023-045-A dated 06 December 2023 to MASTER SERVICES 
+
+AGREEMENT - CLOUD dated 20 November 2023 
+
+ 
+
+BETWEEN 
+
+ABU DHABI COMMERCIAL BANK PJSC, having its registered office at the Abu Dhabi 
+Commercial Bank Building, Salam Street, P.O. Box 939, Abu Dhabi, United Arab Emirates 
+(“ADCB”) 
+
+AND 
+
+XEBIA MIDDLE EAST SOFTWARE TRADING L.L.C, a company registered under the laws of 
+United Arab Emirates (UAE), having its registered office at TEC, Offices 3, One Central DWTC, 
+Dubai, UAE (“Supplier”);  
+
+AND 
+
+Pursuant to a request for proposal titled Touchpoint Loyalty as Service and dated 02 Aug 2023 
+ADCB invited proposals for the provision of specific IT services by suitable service providers. 
+
+1. The Parties have agreed that the Supplier shall perform the Services specified in this Statement 
+
+of Work in accordance with the terms and conditions set out in this Statement of Work and in 
+the Master Services Agreement (IT Services) dated 20 November 2023 together such 
+documents comprising the Agreement between the Parties with regard to the subject matter of 
+this Statement of Work. 
+
+2. Capitalized terms found in this Statement of Work shall have the meanings defined in the 
+
+Master Services Agreement (IT Services), unless otherwise defined herein.  
+
+ 
+
+Statement of Work Effective Date: 15 Dec 2023 
+
+Statement of Work Term: 5 years 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Page 3 Text ---
+        
+ 
+ 
+ 
+
+ 
+
+Executed as an Agreement  
+
+ 
+
+SIGNED for and on behalf of ABU DHABI 
+COMMERCIAL BANK PJSC as represented by 
+Mohammed Al Jayyash in his capacity as 
+Group Chief Operations Officer: 
+
+Date:         __________________  
+
+Signature 
+
+SIGNED for and on behalf of XEBIA MIDDLE 
+EAST SOFTWARE TRADING LLC as 
+represented by Mohit Mehta in his capacity as 
+Authorised Signatory:                                  
+
+Date:         __________________ 
+
+Signature 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6-May-2024
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+07-05-24
+
+
+--- Page 4 Text ---
+        
+ 
+ 
+ 
+
+ 
+
+ 
+
+SCHEDULE 1:  CONTACT DETAILS 
+
+ 
+
+[LEFT BLANK]
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Page 5 Text ---
+Executive Summary  
+We understand that in 2007, ADCB established a "TouchPoints Rewards Program", the region's first 
+bank-wide loyalty programme with a customer-centric approach, which offers highly rewarding 
+experience to the customers with loyalty points for all of their interactions with the bank. Customers 
+earn TouchPoints for using their debit or credit card, keeping a balance in their CASA account, 
+investing, borrowing, utilizing internet services, and so on.  
+ADCB has embarked on this initiative to improve customer engagement and increase the Touchpoints 
+acceptance across the region with added functionalities such as Touchpoints Redemption, Payments, 
+Referrals, and Exchange with other loyalty programs with improved communications / notifications 
+thereby leading to better customer experiences. 
+Proposal Summary and Solution Tenets: 
+Xebia is pleased to submit our proposal to Abu Dhabi 
+Commercial Bank (“ADCB”) to build a Touchpoints mobile app 
+to revolutionize customer engagement and loyalty. The 
+Touchpoints mobile app will be available for both ADCB and 
+non-ADCB customers. It also offers the convenience of making 
+instant payments for various purposes such as utility bills, 
+donations, and school fees.  
+The app enables users to link both ADCB & non-ADCB 
+debit/credit cards which can be used to make payments for the 
+above-mentioned 
+categories. 
+The 
+user 
+can 
+transfer 
+touchpoints with friends & family available on the loyalty app. 
+The loyalty points can also be converted to other loyalty 
+programs (Talabat points, Skywards or Etihad miles). 
+We envisage to develop a new standalone Touchpoints mobile 
+app (iOS, Android & Harmony OS). We propose an innovative 
+solution that combines the power of user experience and offers 
+a seamless, personalized, and highly rewarding experience, 
+ensuring that ADCB’s customers are not only retained but also actively engaged with banking services.  
+
+We are happy to partner with ADCB to meet the objective of enabling these loyalty account owners to 
+be able to perform the following activities through our proposed Touchpoints mobile app. 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 5) ---
+                                                                                                                                                                                  0                                                                                                                                                                                                      1
+0                                                                                                                                       Features for MVP1 (only for ADCB customers)                                                                                                                                                                                                       
+1   \nRegistration & Login \n \nPayment (Utility, School Fees, Donation) \n \nCredit Card Payment \n \nP2P Transfer \n \nTouchpoint \nExchange \n(Etihad, \nSkywards, Talabat)   \nStatements and Transaction History (TP \nand  Card  payments  on  the  loyalty  app) \nOnly) \n \nPersonalized Merchant List \n \nFAQs \n  Multi-Lingual (English & Arabic) \n \nCard Linking
+
+--- Page 6 Text ---
+ 
+In this regard, Xebia appreciates the opportunity of having a detailed discussion with ADCB 
+stakeholders gain better understanding of the requirements and the business objectives (basis which 
+Xebia had crafted the scope, shared separately as excel) shared by the ADCB.  
+ 
+Our Banking SMEs and Digital Experts have thoughtfully crafted a solution for ADCB by: 
+
+Admin Portal 
+ReactJS 
+Flutter 
+ 
+After thorough analysis and considering the strategic objectives of the project, we recommend opting 
+for React Native for mobile app development over Flutter. React Native boasts a more mature 
+ecosystem, with an abundance of readily available skilled resources. Additionally, it is backed by a 
+wealth of proven Xebia accelerators that can expedite the development process. While Flutter is indeed 
+a robust framework with its merits, the ease of resource availability and the proven track record of React 
+Native in delivering scalable and performance-oriented applications give it a definitive edge for this 
+engagement. A final decision may still be taken during the discovery phase. 
+
+ 
+Banking domain expertise 
+ 
+Scalable & Extensible Architecture 
+ 
+Cloud Native Solution 
+ 
+Proposed technical solution & approach to deliver this project. 
+We are excited to partner with ADCB on this initiative and earnestly look forward for an opportunity to 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 6) ---
+                                                                                                                           0                              1
+0    Offers & Marketing Contents \n \nPreferences/Permissions \n \nContact \nUs(Chatbot, \nEmail, \nCall \ncustomer care)   \nSearch \n \nAdmin Module
+
+--- Table 2 (Page 6) ---
+              0                                                                                                                                         1                                                                                                                                                           2
+0     Proposing                                                                                                                                  Option 1                                                                                                                                                    Option 2
+1    Mobile App  React Native based Mobile App for both \niOS  and  Android.  For  Harmony  OS, \nthere  would  be  a  separate  mobile  app \ndeveloped.  Flutter \nbased \napp \nsupporting \niOS, \nAndroid, \nand \nWeb \nplatforms. \nFor \nHarmony  OS,  Flutter  web  app  would  be \nrendered on a web view.
+2  Admin Portal                                                                                                                                   ReactJS                                                                                                                                                     Flutter
+
+--- Page 7 Text ---
+ 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 7) ---
+                                                                              0       1       2       3       4       5       6       7       8       9        10       11       12       13       14       15       16       17       18       19       20       21       22       23       24       25       26       27       28       29       30       31       32             33       34       35       36
+0                                                                        Month #      M1                              M2                              M3                                  M4                                  M5                                  M6                                  M7                                  M8                             M9 (Warranty)                           
+1                                                                  Week starting  Week 1  Week 2  Week 3  Week 4  Week 5  Week 6  Week 7  Week 8  Week 9  Week 10  Week 11  Week 12  Week 13  Week 14  Week 15  Week 16  Week 17  Week 18  Week 19  Week 20  Week 21  Week 22  Week 23  Week 24  Week 25  Week 26  Week 27  Week 28  Week 29  Week 30  Week 31  Week 32        Week 33  Week 34  Week 35  Week 36
+2                                       Data Discovery and Requirement Gathering                                                                                                                                                                                                                                                                                                                                 
+3                                                             Loyalty Mobile App                                                                                                                                                                                                                                                                                                                                 
+4                                                Data / Application Integrations                                                                                                                                                                                                                                                                                                                                 
+5                                                         MVP 1 (ADCB Customers)                                                                                                                                                                                                                                                                                                                                 
+6                                               Solution and Architecture design                                                                                                                                                                                                                                                                                                                                 
+7                                            Database Design and API Integration                                                                                                                                                                                                                                                                                                                                 
+8   Registration and Login; Customer Informartion & Loyalty Engine \nIntegration                                                                                                                                                                                                                                                                                                                                 
+9                             Credit Card Linking and Biller Payments(Utilities)                                                                                                                                                                                                                                                                                                                                 
+10                                                          Credit Card Payments                                                                                                                                                                                                                                                                                                                                 
+11      P2P Transfer; Touchpoint Exchange/Buy; Transaction History \n/Statements                                                                                                                                                                                                                                                                                                                                 
+12                Other Features (Language, FAQ, Contact Us, Merchant List etc.)                                                                                                                                                                                                                                                                                                                                 
+13                                   Infrastructure design and Release pipelines                                                                                                                                                                                                                                                                                                                                 
+14                                                                   SIT Testing                                                                                                                                                                                                                                                                                                                                 
+15                                     MVP 2 (New Features + Non-ADCB Customers)                                                                                                                                                                                                                                                                                                                                 
+16                    Requirement Gathering, Registration for NON-ADCB Customers                                                                                                                                                                                                                                                                                                                                 
+17                                                                Refer and Earn                                                                                                                                                                                                                                                                                                                                 
+18    Gamification; Marketing Offers ; Preferences; Profile \nManagement; Search                                                                                                                                                                                                                                                                                                                                 
+19                                                  Contact Us - Chat/Email/Call                                                                                                                                                                                                                                                                                                                                 
+20                                     Credit Card Payments (Non ADCB Customers)                                                                                                                                                                                                                                                                                                                                 
+21                                  Development and Deployment of Harmony OS App                                                                                                                                                                                                                                                                                                                                 
+22                                             Admin Module- Login, Reports etc.                                                                                                                                                                                                                                                                                                                                 
+23                                                 SIT Testing & Test Automation                                                                                                                                                                                                                                                                                                                                 
+24                                    UAT and Sign Off,  Transition and Handover                                                                                                                                                                                                                                                                                                                                 
+25                                                     UAT and Solution sign-off                                                                                                                                                                    GO-LIVE                                                                                                     GO-LIVE                                          
+26                                                                    Early Care                                                                                                                                                                                                                                                                                                                                 
+27                         Knowledge Transition and Handover (IT, QA Automation)                                                                                                                                                                                                                                                                                                                                 
+
+--- Page 8 Text ---
+        
+ 
+ 
+ 
+
+ 
+Data Discovery and Requirement Gathering (M1-M2): Spanning over eight weeks, we 
+commence the project with a deep dive into data discovery, followed by gathering 
+comprehensive requirements to ensure project success. 
+ 
+MVP 1 (ADCB Customers) (M2-M4): Starting from the fifth week of M2 and spanning until 
+the end of M4, our primary focus is on creating a Minimum Viable Product (MVP) specifically 
+for ADCB customers. 
+ 
+MVP 2 (Including Non-ADCB Customers) (M4-M6): Our attention will then shift towards 
+expanding the MVP to encompass non-ADCB customers and additional features for all 
+customers. This phase starts from the third week of M4 and culminates by the mid of M7. 
+ 
+UAT and Sign Off, Transition, and Handover (M6, M8): User Acceptance Testing (UAT) is 
+crucial. Starting from M5, we plan to engage users in testing, followed by the official sign-off 
+for MVP 1. The same exercise happens in M8 for the MVP2 release. The transition and 
+handover processes are slated to conclude by the end of M9. 
+ 
+Warranty Period (M9): We understand the importance of post-deployment support. Hence, 
+M9 is entirely dedicated as a warranty period, ensuring that any potential hiccups are 
+addressed promptly. 
+ 
+Key Notes/Assumptions: 
+
+1. Development Methodology: The end-to-end development will employ the Agile Scrum 
+
+framework. Deliverables will be developed iteratively in sprints, with continuous collaboration 
+and communication with ADCB stakeholders. 
+2. Project Timeline: The entire project is expected to span 9 months, broken down into distinct 
+
+sprints. A comprehensive project plan will be unveiled upon concluding the requirement 
+gathering phase. 
+3. Sprint Duration: While each sprint typically lasts between 2 to 3 weeks, the exact duration 
+
+may be adjusted based on the scope and complexity of features to be developed. 
+4. Sprint Demonstrations: At the conclusion of each sprint, we will showcase the developed 
+
+functionalities to relevant stakeholders. This ensures transparency and provides an opportunity 
+for early feedback. 
+5. Change Management: Subsequent to the Discovery Phase, any significant alterations in the 
+
+requirements, be it an addition, modification, or removal, will be governed by a structured 
+change management process. 
+6. Resource Availability: It is assumed that all necessary ADCB stakeholders, including product 
+
+owners, SMEs (Subject Matter Experts), and user representatives, will be available for 
+meetings, clarifications, and UAT as required. 
+7. Technical Infrastructure: Access to necessary technical infrastructures, including 
+
+development, testing, and production environments, will be provided in a timely manner. Any 
+delays in infrastructure provisioning might impact on the project timeline. 
+8. Dependencies: All external dependencies, such as third-party services or APIs, will be 
+
+identified and communicated in advance. Delays in receiving these dependencies can 
+potentially affect the project schedule. 
+9. Training: If there's a need for specialized training sessions for users or administrators, these 
+
+will be planned and scheduled well in advance to ensure a smooth transition and efficient use 
+of the system upon deployment. It's assumed that ADCB will provide suitable participants and 
+necessary logistics for these training sessions. 
+ 
+
+1.1 
+Major Timelines 
+
+S. 
+No 
+
+Milestone 
+Month 
+
+1 
+Discovery and Analysis 
+End of Month 1 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Page 9 Text ---
+        
+ 
+ 
+ 
+
+ 
+ 
+1.2  Team Structure 
+
+ 
+ 
+ 
+
+ 
+ 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 9) ---
+    0                                      1               2
+0   2           Architecture Design Sign off  End of Month 2
+1   3                  UI/UX Design Sign off  Mid of Month 2
+2   4                 Development Kick-start  Mid of Month 2
+3   5         Development Completion (MVP 1)  Mid of Month 4
+4   6              SIT and UAT Setup (MVP 1)  End of Month 4
+5   7         UAT Sign off & Go-Live (MVP 1)  End of Month 5
+6   8         Development Completion (MVP 2)  Mid of Month 7
+7   9              SIT and UAT Setup (MVP 2)  End of Month 7
+8  10         UAT Sign off & Go-Live (MVP 2)  End of Month 8
+9  11  MVP2 Warranty & Support (1 + 2 Month)  End of Month 9
+
+--- Page 10 Text ---
+
+--- Table 1 (Page 10) ---
+  0 1 2 3 4 5 6 7 8
+0                  
+1                  
+2                  
+
+--- Page 11 Text ---
+        
+ 
+ 
+ 
+
+Initiation & Definition Phase 
+Xebia’s agile application development process will start with the Initiation & Define Phase. During 
+this phase, the scrum team will perform discovery and document the requirements for the 
+application for review and signoff by ADCB This phase will involve active participation from 
+stakeholders to provide functional and non-functional requirement clarifications and prioritization.  
+ 
+Product Backlog 
+A product backlog consisting of a list of features that should be implemented is created.  Based 
+on the scope, the Xebia team will document epics\features in the backlog.  We will conduct Joint 
+Application Design (JAD) sessions with ADCB stakeholders (program manager, SME) to detail 
+out the epics\features into user stories in the project backlog. Every user story will have the 
+following artifacts: 
+
+1. A unique ID Requirement details 
+2. Wireframes (if applicable) 
+3. Acceptance criteria 
+4. Priority 
+ 
+The prioritized project backlog will drive the planning and delivery of agile sprint cycles. 
+ 
+Solution Design 
+During this phase, the solution architect will create a detailed application design based on the 
+functional and non-functional requirements.  
+ 
+Sprint Execution Phase 
+This is an iterative process consisting of several sprints to realize the project. 
+ 
+Sprint Planning and Backlog 
+A prioritized list jointly by Xebia and ADCB of user stories from the product backlog is moved to 
+the sprint backlog. This list consists of user stories that are targeted for completion within the 
+current sprint. The number of stories depends on the effort estimates and whether the workload 
+can be successfully completed within the sprint window.   
+ 
+Development 
+Implementation of the assigned user stories.  The team tracks daily progress on a task board.  
+The progress report is available in real-time from the Xebia’s project management tools. 
+ 
+Quality Testing 
+The quality control team completes testing completed tasks and logs defects for any failures.  The 
+defect reports are available from Xebia’s project management tools. Defects are categorized into 
+below severity: 
+
+1. Blocker: Blocker type issues are issues that are blockers as the name depicts. The tester 
+
+will not be able to use the AUT if this type of issue occurs.  
+2. Example: Unable to log on to the system. 
+3. Critical: This type of issue is critical to the system, and you need to attend to these issues 
+
+as soon as possible. Usually, the tester has a workaround or a quick fix that can be applied 
+post-release. 
+4. Example: An exception occurring when performing a particular function, (i.e., adding a user 
+
+to the system) 
+5. Major: Issues that are important and should be fixed but do not stop the rest of the system 
+
+from functioning.  
+6. Example: When adding one record, the same record gets added twice. 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Page 12 Text ---
+        
+ 
+ 
+ 
+
+7. Minor: These issues have a relatively minor impact on the product and may need to be fixed 
+
+ 
+Sprint Demo and User Acceptance 
+The result of every sprint is product demonstration. The Scrum team schedules a review and 
+demonstrates the results of their work. ADCB stakeholders use the demos as a real-time gauge 
+of project progress and can make directional changes if required.   
+ 
+Retrospective and Next Sprint Planning 
+Retrospective’s main aim is to discuss the results and determine the ways to improve 
+development process for the next step.  
+ 
+Final User Acceptance Phase 
+User acceptance testing is conducted at the conclusion of development.  The final user 
+acceptance testing will be performed by ADCB project manager and subject matter expert.  
+ 
+User story acceptance criteria that are documented with each user story will be used to validate 
+the requirements.  All defects will be logged and presented for fixing. Xebia will ensure all defects 
+under severity Blocker\Critical\Major will be fixed before moving the application to production. 
+ 
+
+2.2 
+Project Documentation 
+Xebia‘s Technical team analyzed the complexity of the project and strategy for future 
+development to come up with following documentation: 
+ 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 12) ---
+                                                                                                                                                                                                                                                                                                                           0 1
+0  Stage \nDeliverables \nFunctional & \nDetailed Project Schedule  \n \nRequirements Analysis  \nWork Breakdown Structure  \n \nBusiness  Requirements  Document \n(BRD) \nand \nthe \n \nSoftware Requirements Specification (SRS)  \nProduct Backlogs and Release plans  \n \nData Migration Requirements(If any) \n  
+1                                        Design \nDesign Specifications Documents of Software solutions  \n \nApplication Architecture  \n \nDeployment Architecture  \n \nUser Interface Design Specifications  \n \nProduct Priority Backlogs  \n \nIntegration Design Specifications  \n \nDetailed Test Plans  \n  
+2                                                                                                                                                                                                                             Development \nUpdated Design Document  \n \nInstalled software  \n \nFunctional Solution \n  
+3                                                                                                                                  Testing \nComplete Test Cases  \n \nTest cases and plan  \n \nUser Acceptance Criteria  \n \nAutomated Testing approach \n \nProblem reporting  \n \nProblem resolution testing  \n  
+4                                                                                                                                                                                                                                               Deployment \nKnowledge Transfer and Training plan  \n \nOperations Plan \n  
+
+--- Page 13 Text ---
+        
+ 
+ 
+ 
+
+ 
+Solution Support Methodology  
+ 
+Maintenance reports  
+ 
+Log of solution incidents and problems  
+ 
+Log of solution changes  
+ 
+Automated Test Regression packs  
+ 
+
+2.3 
+Project Governance & Communication 
+ 
+
+Xebia has several Internal groups which continuously provide guidance and conduct project 
+audits to ensure project goals are met in a timely manner. The Customer-centric Risk Assessment 
+and Governance (CRAG) is a key group responsible for project governance, based on simplicity, 
+self-assessment, and mentoring. The process is structured to quickly identify project strengths 
+and weaknesses and provide opportunity to impart best-practice advice during the review cycle. 
+In effect, the CRAG monitors the progress of the projects, oversees process compliance, 
+mediates in identification and mitigation of risks, identifies, and facilitates implementation of best 
+practices to improve the organization’s project delivery capabilities. 
+Key elements of CRAG: 
+1. Risk assessment is conducted by the Program manager using CRAG guidelines and honestly 
+
+2. Project health is reported to key stakeholders and Senior Management by CRAG. 
+
+3. The Account Manager and Senior Management review the health of all projects via a 
+
+4. CRAG conducts regular audits for process improvement and proactive risk identification and 
+
+5. CRAG initiates identification and implementation of best practices, risk mitigation and 
+
+ 
+
+2.3.1 
+Joint Governance with ADCB 
+ 
+We propose setting up a Joint Governance Council between the Xebia team and ADCB to 
+address all aspects of project governance. The Governance Council will work towards the 
+appropriate utilization of people, systems, business structures, and practices to optimize project 
+results and maximize efficiency, with the goal of providing complete quality assurance to ADCB. 
+The Governance Council will consist of three boards. These boards function in a descending 
+authoritative control, providing a hierarchical flow of governance: 
+
+Here is a Governance Model that Xebia proposes for this initiative: 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 13) ---
+                                    0                                                                                                                                                                                 1
+0  Knowledge & Source Code \nTransfer                                             Final Business and Technical Documentation  \n \nStep-by-step guides for setting up the development and \n \ndeployment environment
+1               Support & Maintenance  Solution Support Methodology  \n \nMaintenance reports  \n \nLog of solution incidents and problems  \n \nLog of solution changes  \n \nAutomated Test Regression packs  \n
+
+--- Page 14 Text ---
+        
+ 
+ 
+ 
+
+ 
+Fig: Xebia’s Joint Governance Model 
+The governance framework accommodates ADCB’s business and IT stakeholders. While 
+business conditions, organizations, and people change, the fundamental governance roles do 
+not.  
+
+2.3.2 
+Risk Management 
+This process involves identification of project risks and entering these risks into a CARDI log 
+(constraints, assumptions, risks, dependencies, and issues) – a document that will be owned 
+jointly by Xebia and ADCB teams. Some of the inputs that help identify potential project risks are: 
+1. Organization risk database: A database of common risks applicable across projects. 
+
+2. Project documents: As shared by ADCB throughout the duration of the project. 
+
+3. Feedback: Received from ADCB, team members, and other stakeholders, senior 
+
+4. Residual risks: That arise from mitigation action taken on a larger risk. 
+
+Risk Analysis and Prioritization 
+
+Once project risks are identified, the next activity is to evaluate, categorize, and prioritize the 
+risks. Project team members meet to review the risks that have been identified.  
+1. Evaluation of risk: Each risk in the risk register is evaluated based on probability of 
+
+2. Risk rating: Each risk is assigned a rating based on the probability and impact evaluated. 
+
+3. Owner: An owner is identified and assigned to each risk. 
+
+Risk Reporting and Escalation 
+Project risks are shared periodically with the following stakeholders to obtain feedback and to 
+plan mitigation: client and project governance team.  
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 14) ---
+                                0                                         1
+0                                                               Probability
+1                                                       High \nMedium \nLow
+2  Impac\nt \nHigh \nMedium \nLow                      High \nHigh \nMedium
+3                                  High \nMedium \nLow \nMedium \nLow \nLow
+
+--- Page 15 Text ---
+        
+ 
+ 
+ 
+
+Risk mitigation and contingency plans are identified for each risk with a risk rating of “high” or 
+“medium”. The mitigation plan details the steps to be taken to minimize or eliminate the possibility 
+of its occurrence. 
+
+Risk Monitoring and Control 
+Risks are tracked monthly in the CARDI review meeting. This is to assess if there is any change 
+in the status or rating of the risk. Project team members and other relevant stakeholders will 
+meet to review the open risks in the risk register and to plan appropriate action. 
+
+2.3.3 
+RACI Mechanism 
+RACI Definition: 
+ Responsible – Team which does the work to complete the task. 
+ Accountable – Team that delegates work and is the last one to review the task before it’s 
+
+deemed complete. 
+ Consulted – Team which will provide consultation as they can foresee the impact on future 
+
+ 
+ 
+
+ 
+
+Legend 
+ Green: CL – ADCB 
+ Yellow: X – Xebia 
+ Orange: X/CL - Shared 
+ 
+ 
+
+2.3.4 
+Reporting Mechanism 
+Xebia believes that the success of this project essentially depends on maintaining effective 
+communication including access to the project progress to clients. Recognizing the needs for 
+transparency, project management tools, which will be utilized including customized reports as 
+required by ADCB will be shared and will be accessible at all times.  
+We propose to capture, measure, and report the project’s progress using the metrics below. 
+These can be mutually agreed-on/modified before the project initiation, as per the specific 
+requirements of ADCB’s stakeholders. 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 15) ---
+                            0                                                                                   1     2     3   4   5
+0                       Teams                                                                      Key Activities     R     A   C   I
+1                    Platform                                         # Requirements Planning \n# Program Roadmap     X     X  CL  CL
+2  Architecture & \nFramework                                         # Technical Design \n# Architecture Updates     X  X/CL  CL  CL
+3                                                     # Prioritization \n# Sequencing and Re-ordering \n# Backlog  X/CL  X/CL  CL  CL
+4           Xebia Engineering  # Focus on development and testing \n# Daily Stand-Ups  \n# Deliverables in Squads     X     X  CL  CL
+
+--- Page 16 Text ---
+% Of Automation 
+Invalid Defects 
+Tests Report (incl. coverage vs. KPI, 
+resolutions, statistics, trends) 
+
+ 
+At Xebia, we use many tracking tools and quality programs for robust reporting and tracking of 
+the projects. The same can be discussed and agreed with ADCB during Planning Phase. 
+
+2.3.5 
+Escalation Management 
+During the initial phases of the project, a defined escalation matrix, that is based on different 
+areas and levels of escalation, is created and the team ensures that the project stakeholders are 
+aware of the escalation process. An Escalation Matrix will be created for the proposed 
+engagement and will comprise of the following:  
+1. Define decision categories: these can include areas such as finance, staffing, tools, and 
+
+technical features/functionality. 
+2. In each category, determine the appropriate path of escalation by functional responsibility. 
+
+Start at the lowest level in the organization, typically an individual contributor. 
+3. Define key organizational contributors and their decision-making authority. This can vary 
+
+based on the size and complexity of the project. In some cases, there will be dual 
+communication paths (functional and project) to ensure rapid decision-making. 
+4. Present to management, and get agreement on the categories, decision authority, and 
+
+1. Strategic Reviews: The Strategic review meetings are conducted to discuss the overall IT 
+
+strategy and keeping the IT teams aligned towards the corporate goals and objectives. 
+These meetings will be conducted on a quarterly basis between the Xebia Engagement 
+executive and ADCB senior leadership. 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 16) ---
+                               0              1                                          2
+0                           ROLE           NAME                            CONTACT DETAILS
+1        ADCB's Project Manager:      Reshmi TS      Reshmi.T@adcb.com  \n(+971-508814250)
+2  Supplier's Project \nManager:  Randhir Kumar  randhirkumar@xebia.com \n(+971-553239195)
+
+--- Table 2 (Page 16) ---
+                    0                 1
+0  Escalation \nLevel              Role
+1                 1st  Delivery Manager
+2                 2nd   Account Manager
+3                 3rd   Executive Board
+
+--- Page 17 Text ---
+        
+ 
+ 
+ 
+
+2. Steering Committee Reviews: The project steering committee meetings are conducted to 
+
+ensure tight coordination and compliance with the project schedule and objectives. Project 
+risks and issues are discussed, and remedial strategies are defined. These meetings will be 
+conducted on a monthly basis between Xebia Delivery Manager and Customer project 
+SPOC. 
+
+3. Project Performance Reviews: The performance review meetings are conducted to track 
+
+the project at task levels to ensure successful execution of milestones and deliverables. 
+Operational issues and accomplishments are reviewed and discussed. These meetings will 
+be conducted on a weekly basis between the Xebia Project Manager and ADCB project 
+manager. 
+
+2.5 
+Change Management 
+Changes in the business dynamics which can be due to some external factors – policy, 
+government, market etc. or typical change in functional or tech requirements generate the need 
+for a ‘Request for Change’ (RFC). After receiving the changes, the software configuration control 
+board (SCCB) approves the changes after assessing and prioritizing the RFCs. All RFCs are 
+logged in change register. SCCB will constitute of relevant stakeholders from Xebia & customer 
+team/s. 
+Xebia follows the below process to address conventional change requests: 
+
+ 
+Fig: Change Management Workflow 
+ 
+While logging the RFCs, the RFCs can be categorized under major, medium or minor CR 
+depending upon the required effort to complete the same. Below is a reference definition to 
+categorize the RFCs - 
+ 
+Minor CR – “Any work which can be accomplished between 1- 3 days.” 
+Medium sized CR – “Any work which can be completed within a sprint (1-2 weeks).” 
+Major sized CR – “Any work that takes longer than a sprint work.” 
+ 
+Xebia team shall propose the initial category of CR, with impact associated, effort, timelines etc. 
+for change board review and approval. Based on assessment, the RFC is either accepted or 
+rejected. If the RFC is accepted, the information required for processing the ‘major’ change is 
+stored in the change register. If an RFC is rejected, a new one can be submitted, if required. 
+ 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Page 18 Text ---
+crashes after restart attempts. 
+ Operation cannot be 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 18) ---
+                                                                                                                                       0       1        2                                                           3                 4                                                                                                                                                     5
+0  Resolution / \nPrimary \nDefinition of Severity \nIssue \nResponse \nWorkaround \nKPIs \nContact \nSeverity \nTime \ntime \nMechanism                                                                                                                                                                                                                                                     
+1                                                                                                   P1 \n(Very high \nbusiness \nimpact)  30mins  4 Hours  SLA’s will be \nmet for at least \n95% of the \nincidents.  Phone & \nTicket   \nComplete loss of \nservice/system down. \n \nSystem crashes or repeated \ncrashes after restart attempts. \n  Operation cannot be \ncontinued.
+
+--- Page 19 Text ---
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 19) ---
+                                                                                                                                       0        1                  2                                                            3                     4                                                                                                                                                                                                                                             5
+0  Resolution / \nPrimary \nDefinition of Severity \nIssue \nResponse \nWorkaround \nKPIs \nContact \nSeverity \nTime \ntime \nMechanism                                                                                                                                                                                                                                                                                                                                                             
+1                                                                                                        P2 \n(High \nbusiness \nimpact)  1 Hours   1 Business \nDay   SLA’s will be \nmet for at least \n90% of the \nincidents.  Ticket/Phone/ \nMail                                    \nSevere loss of service. \n \nImportant features or \nfunctionality is unavailable \nwith no acceptable \nworkaround. \n  Operations can continue but \nare restricted. \n  Major performance issues.
+2                                                                                                      P3 \n(Medium \nbusiness \nimpact)  4 Hours  5 Business \nDays  SLA’s will be \nmet for at least \n85 % of the \nincidents.           Ticket/Mail   \nKey functionality is \nunavailable, but a customer \nacceptable workaround exists \nand is being used or the \nunavailable functionality is \nnon-critical. \n \nA small number of users are \naffected, or the users can still \nwork.
+
+--- Page 20 Text ---
+        
+ 
+ 
+ 
+
+An integral component of our delivery approach is our commitment to quality assurance. Recognizing 
+the importance of efficient and effective regression testing in the evolving dynamics of a system, we 
+are planning to design a comprehensive automated regression test suite. This shall be picked up in 
+phase 2. 
+
+ 
+
+Features and Benefits: 
+
+ Comprehensive Coverage: The test suite will cover all major functionalities, ensuring that 
+
+any changes or minor enhancements do not inadvertently introduce defects in existing 
+features. 
+
+ Efficiency: Automated tests can be run frequently and consistently, offering a rapid feedback 
+
+loop to the development team and significantly reducing the time and resources needed for 
+manual testing. 
+
+ Reusability: The regression pack will be structured in a modular manner, allowing tests to be 
+
+reused across different scenarios and phases of the project. 
+
+Handover of QA Automation Suite to ADCB QA Team: 
+
+Post go-live, the ownership of this automated regression test suite will be transitioned to the ADCB 
+QA team. This handover will ensure that ADCB has all the necessary tools and documentation to 
+continue automated regression testing in future cycles independently. Additionally, training sessions 
+will be provided to ensure the ADCB QA Team is fully equipped to utilize, maintain, and enhance the 
+test suite as needed. Estimated duration will be 3-4 weeks depending on stakeholder availability. 
+
+4 
+Warranty and Handover 
+ 
+
+One month after the final Go-Live, there will be a handover to support. Some knowledge transfer 
+and product demos will be consudcted for key business and technical stakehodlers for each of the 
+application modules developed.  
+
+ 
+
+5 
+Key Assumptions and Dependencies 
+
+5.1 
+Technical Assumptions 
+Xebia has created the enclosed RFP Response and Solution based on the below mentioned 
+technical assumptions: 
+1. 
+The project will be supported on a mobile channel. 
+2. 
+System will support high-availability architecture. 
+3. 
+Mobile application to be developed in both English and Arabic. 
+4. 
+English input data & all Arabic translation for application will be provided by ADCB. 
+Application will be delivered in English and Arabic. 
+5. 
+UI/UX for Arabic and English layout would be provided by ADCB. 
+6. 
+The scope and final project plan will be derived based on backlog of all requirements during 
+Discovery phase. 
+7. 
+All third-party plugins/APIs/etc. which incur cost will be borne by ADCB. 
+8. 
+Hardware setup required for hosting and staging the application software setup will be 
+provided by ADCB. 
+9. 
+All required APIs/ web services will be provided by ADCB and ADCB will ensure that 
+provided APIs are optimized to meet the requirements of the application. Support from the 
+API team whenever necessary should be provided by ADCB. 
+10. Any major deviation in scope discovered during discovery phase or other phases will be 
+
+raised as a CR which may have an impact on timelines and/or commercials. The 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Page 21 Text ---
+        
+ 
+ 
+ 
+
+commercials have been derived basis on the functional sheet that has been shared 
+separately. Any change in the functional scoping sheet will be considered as CR. 
+11. Documents uploaded will be saved in a file server which will be set up, maintained, and 
+
+managed by the client. 
+12. Reports in Admin console will be downloaded in the format of XLS or CSV. 
+13. Necessary permission to develop accounts to publish the app to be taken care by ADCB. 
+14. The notification channels envisaged are through SMS, Email, in-app or push notifications. 
+15. Xebia will leverage the existing OTP service of ADCB. 
+16. The masters list of utility billers will be maintained in the loyalty engine. Integration with the 
+
+biller aggregator needs to be developed. 
+17. The Loyalty app will integrate with ADCB’s  loyalty engine via APIs for Loyalty ID creation, 
+
+statement, offers and earning and burning points. 
+18. Offers and promotions will be hosted and provided by ADCB.LAAS application will integrate 
+
+for displaying these offers and promotions.. 
+19. Loyalty partners considered are Etihad Miles, Skywards & Talabat. Integration with the same 
+
+is envisioned using REST/SOAP APIs. 
+20. We considered Keycloak as the Identity Access Management (IAM) tool for LaaS. Setting 
+
+up of realms and other configurations will be performed by Xebia. 
+21. Headless CMS Strapi will be used to store and serve static textual content like templates, 
+
+privacy policy, FAQs etc. and the content will be provided by ADCB. 
+22. 3D Secure Authentication for Cards will be done directly in mobile application. 
+23. Payment Gateway will be integrated in Mobile Application and Loyalty Engine will maintain 
+
+the Status of payment including Reconciliation. 
+24. Loyalty Engine will send the Notification for transaction status e.g., Success or failure. 
+25. All the transactions statement for the Customer will be served by Loyalty Engine. 
+26. The data will be provided by Engine through API and PDF statement will be generated by 
+
+customer appWe assume all the dedicated flow for each biller would be provided by ADCB 
+and that will be orchestrated in Mobile Application. 
+27. A list of billers and its categories will be provided by ADCB Biller API. 
+28. The cost of Xebia’s Transaction Categorization Engine accelerator is not included and needs 
+
+to be discussed and agreed later. 
+29. Data Pipelines from loyalty solution to the ADCB core system will be built by ADCB Bank 
+30. SSO capabilities with other banking apps not required. 
+31. Loyalty app will be a stand-alone app without any integration with ADCB Mobile banking 
+
+app. 
+ 
+ 
+5.2 
+General Assumptions 
+Below mentioned are general assumptions for the overall project: 
+1. 
+Branding guidelines are provided during the first week of the project kick-off. 
+2. 
+Assuming that ADCB will be sharing with us the ISO standard processes followed by ADCB 
+during the change, release, and deployment management. 
+3. 
+The static contents for the portal both in English & Arabic should be made available by ADCB 
+prior to development. 
+4. 
+The applications provided in scope will be delivered in “Sprint” of Agile Methodology. 
+5. 
+All timelines and dates are indicative. Any timeline is dependent on stakeholders fulfilling 
+their respective responsibilities. 
+6. 
+Any delays in delivering the required documentation, providing feedback on Xebia 
+deliverables, or resource unavailability will have an impact on the project schedule and cost. 
+7. 
+The wireframes will be defined during the blueprinting phase. 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Page 22 Text ---
+        
+ 
+ 
+ 
+
+8. 
+Sign-off / Approval of the deliverables will be signed off by ADCB within the timeline as 
+stipulated and mutually agreed in the Implementation Schedule. If sign-off is not received 
+from ADCB in the stipulated time, then it will be deemed as accepted by ADCB. 
+9. 
+As the Merchant QR Code is out of scope, we are assuming that in store redemption of 
+touchpoints or payments using the ADCB LaaS app is out of scope. 
+10. The warranty provided by us will be hybrid – onshore & offshore support. 
+11. For all the environments and the infrastructure (Hardware, Networking), 3rd party Tools will 
+
+be provided by ADCB. 
+12. ADCB will provide infrastructure/facilities for Training like Classroom, Projector, Desktop 
+
+/Laptop. 
+13. ADCB shall provide Xebia personnel necessary access privileges, system documents, 
+
+manuals, reports, system software, and specification manuals, documentation to the 
+external system, and any such information available with ADCB to enable Xebia staff to 
+understand the current business and system environment.  
+14. Xebia will have timely access to the appropriate business and technical resources of ADCB. 
+
+ADCB SME's will be available for discussion & clarification as and when required. 
+15. Any delay in execution of responsibilities by ADCB and other stakeholders e.g., environment 
+
+availability, access, reviews, issue resolution, etc. affecting the execution of the agreed 
+project schedule will have implications on the project timeline. 
+16. Any development, enhancement, bug fixing of the external system is not in Xebia’s scope.  
+17. Availability of ADCB staff for training preparation of User Acceptance Test cases, 
+
+acceptance testing & sign-off of the project as per the agreed project plan. 
+18. If the UAT/ production deployment period exceeds the mentioned duration for reasons not 
+
+attributable to Xebia, it will be discussed with ADCB and with the steering committee for 
+resolution. 
+19. We have considered Blue/Green, Canary, Rolling upgrade as a release capability. 
+20. ADCB will provide VPN access to the Development, Test, with production logs  of the 
+
+identified applications in scope as reasonably required by Xebia for its onshore and offshore 
+teams during the project lifecycle. 
+21. ADCB to help and facilitate coordination with the Network team for modification/queries to 
+
+policies of Router, Firewalls, and other network equipment’s for onsite/offshore connectivity. 
+22. We assume that Gamification is only limited to Raffle Draw. Implementation logic will be 
+
+provided by ADCB. Any major change in the game itself or new game development will 
+impact timelines and commercials. 
+23. Any change in the scope will impact the overall estimation and commercials, as the scope 
+
+in perspective and considered for estimation is the RFP document. Separate Commercials 
+& estimation will be submitted in case of deviation to it.  
+24. All the above functional flow, sequence and architecture diagrams are representative and 
+
+may change the basis of the discussion during discovery. 
+6 
+Out of Scope 
+
+1. Data security maintenance and gathering of information (data collection) from each sector 
+
+is considered out of scope. 
+2. Any new functionalities apart from the one mentioned in the scope will be considered as 
+
+out of scope. 
+3. Load balancing solution, DR solution and infrastructure provisioning is out of the scope of 
+
+proposed solution. 
+4. Any development apart from iOS, Android and Harmony OS (Huawei) platform is 
+
+considered out of scope. 
+5. User manual will be delivered only in English, hence user manual in Arabic is considered 
+
+out of scope. 
+6. Offline capability is not envisioned in any of the scenarios, hence considered as out of 
+
+scope. 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Page 23 Text ---
+        
+ 
+ 
+ 
+
+7. Third party direct interactions and communications outside ADCB is out of scope. 
+8. Creating, and Translation of Text, branding assets or any documentation other than 
+
+mentioned is considered as out of scope. 
+9. Development of web services to integrate with external or third-party systems for data 
+
+extraction is not a part of the scope. 
+10. Hosting and maintenance of Infrastructure & Device Inventory Management and 
+
+maintenance during development will be out of the scope of Xebia. 
+11. Data migration, post-implementation data migration, and data management will be 
+
+considered as out of scope. 
+12. Managing any third-party teams for integration and their systems or any other 
+
+involvements is considered out of our scope. 
+13. Security, VAPT, and Performance testing will be out of the scope of Xebia. All observations 
+
+will be discussed, prioritized with ADCB and fixed by Xebia. 
+14. Any integration service or front-end view development away from the one mentioned in 
+
+scope will be out of the scope of Xebia. 
+15. Physical storage infrastructure for application deployment and database will be out of 
+
+scope of Xebia. 
+16. The scope covers only the processes mentioned in the RFP and any other processes 
+
+which are involved would be considered out of scope. 
+17. Merchant Portal is considered out of scope. 
+18. KYC/AML check during registration on the Touchpoint mobile application is considered 
+
+out of scope. 
+19. The Customer Support Portal & Merchant Portal for the Touchpoint mobile application are 
+
+considered out of scope. 
+20. Merchant onboarding is considered out of scope. 
+21. UAE Pass for user onboarding is considered out of scope. 
+22. IVR integration is considered out of scope. 
+23. Designing UI/UX screens is considered out of scope. 
+24. QR payments and NFC payments are out of scope 
+25. Cloud migration is out of scope 
+ 
+
+6.1 
+Scope of Work and Services  
+ 
+
+ 
+ADCB intends to develop a new standalone Touchpoints mobile app (iOS and Android, 
+Harmony OS) that will allow its customers to make payments via Touchpoints, Touchpoints 
+redemption, 
+referrals, 
+exchange 
+with 
+other 
+loyalty 
+programs 
+with 
+improved 
+communications / notifications thereby leading to a better customers experience. The 
+detailed scope against all the required features requested by ADCB are listed in an excel 
+sheet attached as an annexure with this document. 
+ 
+Detailed scope is enclosed in a separate excel sheet attached with this document. 
+
+Functional%20Scope
+
+_ADCB.xlsx
+ 
+ 
+Sharing some representative flows against key use cases. 
+ 
+Maintenance and upgrades to the mobile application due to changes in AWS 
+infrastructures should be part of AMC and not CR. e.g. Kubernetes removes support for 
+docker runtime and there is a change required in the mobile application to keep it running. 
+ 
+ 
+6.2 
+Functional Diagram 
+The high-level solution schematics for the scope can be represented as follows: 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Page 24 Text ---
+        
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 24) ---
+  0
+0  
+1  
+2  
+
+--- Table 2 (Page 24) ---
+  0 1 2
+0      
+1      
+
+--- Page 25 Text ---
+        
+ 
+ 
+ 
+
+ Mind Map 
+Xebia has done a detailed analysis of the various artefacts presented by the ADCB. In light of the 
+available information, business goals & timelines; Xebia has come up with a recommended scope. 
+
+ 
+ 
+ 
+ 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Page 26 Text ---
+        
+ 
+ 
+ 
+
+ 
+6.3 
+Flow Diagrams 
+Below we have provided the glimpse of flow diagrams. 
+ 
+(i) 
+ADCB Loyalty-Miles Exchange 
+
+ 
+ 
+ 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Page 27 Text ---
+        
+ 
+ 
+ 
+
+ 
+(ii) 
+ADCB Loyalty-Bill Payment 
+
+ 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 27) ---
+  0 1
+0    
+1    
+
+--- Page 28 Text ---
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(iii) 
+ADCB Loyalty-Bill Payment 
+
+ 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 28) ---
+  0 1
+0    
+1    
+
+--- Page 29 Text ---
+ 
+ 
+
+ 
+ 
+
+- 29- 
+
+ 
+ 
+ 
+ 
+
+(iv) 
+ADCB Loyalty-Miles Exchange 
+
+ 
+ 
+ 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Page 30 Text ---
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+(v) 
+ADCB Loyalty-Bill Payment 
+
+ 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 30) ---
+  0 1
+0    
+1    
+
+--- Page 31 Text ---
+ 
+ 
+
+ 
+ 
+
+- 31- 
+
+ 
+ 
+ 
+ 
+
+6.4 
+Sequence Diagram 
+We have incorporated a meticulously designed sequence diagram to vividly illustrate the entire process 
+of payment for utility services and customer transaction history. 
+(i) 
+Electricity Bill Payment for a utility service 
+A sequence diagram illustrates the process of a customer making an electricity bill payment. 
+
+ 
+ 
+ 
+
+ 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Page 32 Text ---
+ 
+ 
+
+ 
+ 
+
+- 32- 
+
+ 
+ 
+ 
+ 
+
+(ii) 
+Customer Transactions History 
+A sequence diagram illustrates the process of a customer making an electricity bill payment for a utility 
+service. 
+
+ 
+ 
+ 
+
+ 
+ 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Page 33 Text ---
+crashes after restart attempts. 
+ Operation cannot be 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 33) ---
+                                                                                                                                       0        1                  2                                                            3                     4                                                                                                                                                                                                                                             5
+0  Resolution / \nPrimary \nDefinition of Severity \nIssue \nResponse \nWorkaround \nKPIs \nContact \nSeverity \nTime \ntime \nMechanism                                                                                                                                                                                                                                                                                                                                                             
+1                                                                                                   P1 \n(Very high \nbusiness \nimpact)   30mins            4 Hours   SLA’s will be \nmet for at least \n95% of the \nincidents.      Phone & \nTicket                                                                                           \nComplete loss of \nservice/system down. \n \nSystem crashes or repeated \ncrashes after restart attempts. \n  Operation cannot be \ncontinued.
+2                                                                                                        P2 \n(High \nbusiness \nimpact)  1 Hours   1 Business \nDay   SLA’s will be \nmet for at least \n90% of the \nincidents.  Ticket/Phone/ \nMail                                    \nSevere loss of service. \n \nImportant features or \nfunctionality is unavailable \nwith no acceptable \nworkaround. \n  Operations can continue but \nare restricted. \n  Major performance issues.
+3                                                                                                      P3 \n(Medium \nbusiness \nimpact)  4 Hours  5 Business \nDays  SLA’s will be \nmet for at least \n85 % of the \nincidents.           Ticket/Mail   \nKey functionality is \nunavailable, but a customer \nacceptable workaround exists \nand is being used or the \nunavailable functionality is \nnon-critical. \n \nA small number of users are \naffected, or the users can still \nwork.
+
+--- Page 34 Text ---
+ 
+ 
+
+ 
+ 
+
+- 34- 
+
+ 
+ 
+ 
+ 
+
+Scope of Support: 
+
+The support encompasses: 
+
+ 
+Defect Resolution: Addressing and resolving any bugs or issues that arise in the system. 
+
+ 
+Routine Maintenance: Regularly updating the system, optimizing performance, and 
+ensuring that it aligns with the evolving needs of ADCB. 
+
+Benefits of Our Support Model: 
+
+ Predictability: ADCB can anticipate consistent quality of support throughout the engagement 
+
+period. 
+
+ Cost Efficiency: By operating on a fixed capacity model, we eliminate unpredictable support 
+
+costs, ensuring budget stability. 
+
+ Transparency: Any work that goes beyond the designated support capacity is communicated 
+
+clearly, ensuring ADCB is always informed and in control. 
+
+In conclusion, our support model is crafted to provide ADCB with a seamless experience, ensuring 
+the system's longevity and relevance while keeping transparency and efficiency at the forefront. 
+
+ 
+
+QA Test Automation Suite: 
+
+An integral component of our delivery approach is our commitment to quality assurance. Recognizing 
+the importance of efficient and effective regression testing in the evolving dynamics of a system, we 
+are planning to design a comprehensive automated regression test suite. This shall be picked up in 
+phase 2. 
+
+ 
+
+Features and Benefits: 
+
+ Comprehensive Coverage: The test suite will cover all major functionalities, ensuring that 
+
+any changes or minor enhancements do not inadvertently introduce defects in existing 
+features. 
+
+ Efficiency: Automated tests can be run frequently and consistently, offering a rapid feedback 
+
+loop to the development team and significantly reducing the time and resources needed for 
+manual testing. 
+
+ Reusability: The regression pack will be structured in a modular manner, allowing tests to be 
+
+reused across different scenarios and phases of the project. 
+
+Handover of QA Automation Suite to ADCB QA Team: 
+
+Post go-live, the ownership of this automated regression test suite will be transitioned to the ADCB 
+QA team. This handover will ensure that ADCB has all the necessary tools and documentation to 
+continue automated regression testing in future cycles independently. Additionally, training sessions 
+will be provided to ensure the ADCB QA Team is fully equipped to utilize, maintain, and enhance the 
+test suite as needed. Estimated duration will be 3-4 weeks depending on stakeholder availability. 
+
+ 
+
+A.4 
+Training Services: 
+
+1. Training: If there's a need for specialized training sessions for users or administrators, these 
+
+will be planned and scheduled well in advance to ensure a smooth transition and efficient use 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Page 35 Text ---
+ 
+ 
+
+of the system upon deployment. It's assumed that ADCB will provide suitable participants and 
+necessary logistics for these training sessions. 
+ 
+A. 5  
+Software: 
+
+1. ADCB shall provide Xebia personnel necessary access privileges, system documents, manuals, 
+
+reports, system software, and specification manuals, documentation to the external system, and any 
+
+such information available with ADCB to enable Xebia staff to understand the current business and 
+
+2. Any required software or products required for Code Repositories, Version Control, CI/CD, Project 
+
+Supplier warrants that it has in effect, and will maintain in effect (including policy renewal if required), 
+
+suitable and sufficient insurance with a reputable insurance company to cover its obligations to ADCB, 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 35) ---
+                               0              1                                          2
+0                           ROLE           NAME                            CONTACT DETAILS
+1        ADCB's Project Manager:      Reshmi TS      Reshmi.T@adcb.com  \n(+971-508814250)
+2  Supplier's Project \nManager:  Randhir Kumar  randhirkumar@xebia.com \n(+971-553239195)
+
+--- Page 36 Text ---
+ 
+ 
+
+A.1 
+CONTRACT PRICE: AED 6,808,169 (AED Six million eight hundred eight thousand one 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 36) ---
+                                             0                                                                                         1                     2
+0                                  Description                                                                                  Duration  Commercials \nin AED
+1  Implementation & Support for \nLAAS Project  5 Yrs. (9 Months of Implementation with \n3 months of warranty and  4 Yrs. of \nSupport)             6,808,169
+
+--- Table 2 (Page 36) ---
+       0                                                                         1          2                   3
+0  S. No                                                        Payment Milestones  Payment %  Commercials in AED
+1      1                                                 Upon Discovery & Analysis        15%             515,828
+2      2                                  Development Completion Signoff \n(MVP 1)        15%             515,828
+3      3                                                       UAT Signoff (MVP 1)        10%             343,886
+4      4                                                      Upon Go-Live (MVP 1)        15%             515,828
+5      5                                  Development Completion Signoff \n(MVP 2)        10%             343,886
+6      6                                                       UAT Signoff (MVP 2)        10%             343,886
+7      7                                                Upon Final Go-Live (MVP 2)        15%             515,828
+8      8  Upon Completion of Warranty \nphase of 3 months after GO Live of \nMVP 2        10%             343,886
+9                                                                            Total       100%           3,438,856
+
+--- Page 37 Text ---
+ 
+ 
+
+II. achieves an average KPI score of less than 97.5% in two (2) consecutive 
+
+III. achieves an average KPI score of less than 99% in any three (3) or more 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 37) ---
+       0                                1                 2                       3
+0  S. No                        Milestone  Total Fees (AED)  Quarterly Fees \n(AED)
+1      1             Support for 1st year           959,188              239,797.00
+2      2  Support for years 2, 3 \nand 4.           803,375              200,843.75
+3                                   Total         3,369,313                        
+
+--- Table 2 (Page 37) ---
+       0                                                   1                        2                        3
+0  S. No                                                Role  Onsite \nRate/Man-\nday  Offshore Rate/Man-\nday
+1      1  Scrum Master / Delivery Manager / Technical \nLead                 AED2,200                   AED979
+2      2                                     Project Manager                 AED2,400                   AED979
+3      3                                    Business Analyst                 AED2,200                   AED839
+4      4                                    UI/UX Specialist                 AED2,100                   AED839
+5      5                                  Solution Architect                 AED2,400                   AED961
+6      6                                Full Stack Developer                 AED2,200                   AED891
+7      7                                    Mobile Developer                 AED2,200                   AED891
+8      8                                       QA Consultant                 AED1,900                   AED839
+
+--- Page 38 Text ---
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+The applicable SLCs shall be adjusted against the amounts payable by ADCB for the month/s to which 
+
+the SLC applies (and, if applicable, calculated on a pro rata basis), as credits in the invoice issued. If 
+
+no such invoices remain to be issued, the amount of the SLC shall be payable by the Supplier upon 
+
+ADCB’s demand 
+
+B.2  
+Termination for failure to meet Service Levels 
+
+The following occurrence of Service Level Credits shall constitute a material breach of the Agreement 
+
+by the Supplier pursuant to Clause Error! Reference source not found. of the Agreement: 
+
+ 
+
+ 
+[Supplier: 
+
+(A) 
+becomes liable for Service Level Credits for a KPI score of less than 70% in two (2) 
+
+(B) 
+becomes liable for Service Level Credits for a KPI score of less than 70% in any three 
+
+C. 
+PENALTIES FOR LATE DELIVERY 
+
+ 
+LATE PENALTY CALCULATION METHODOLOGY 
+
+IF THE SERVICE PROVIDER FAILS, FOR ANY REASON SOLELY AND DIRECTLY 
+
+ATTRIBUTABLE TO THE SERVICE PROVIDER, TO DELIVER ANY SERVICE OR 
+
+DELIVERABLE CONTRACTED FOR IN WHOLE OR IN PART AT A TIME LATER THAN THAT 
+
+STATED IN THIS AGREEMENT, INCLUDING THE REPLACEMENT OF ANY REJECTED 
+
+SERVICES OR DELIVERABLES, ADCB RESERVES THE RIGHT TO APPLY A PENALTY OF 
+
+ONE PERCENT (1%) PER WEEK OF THE VALUE OF SERVICES OR DELIVERABLES SO 
+
+DELAYED FOR THE FIRST WEEK OR A PART THEREOF. THEREAFTER THE PENALTY 
+
+WILL BE INCREASED TO TWO PERCENT (2%) PER WEEK FOR EACH SUBSEQUENT 
+
+WEEK OR PART THEREOF, UP TO A MAXIMUM PENALTY OF 10% OF THE VALUE OF 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 38) ---
+            0                          1                                                          2
+0              Points per Calendar month  Credit applicable  \n(% of Fees (pro rata / per \nmonth))
+1  Category 1                       1, 2                                                        20%
+2  Category 2                       3, 4                                                        10%
+3  Category 3                         5+                                                         0%
+
+--- Page 39 Text ---
+ 
+ 
+
+ 
+ 
+
+- 39- 
+
+ 
+ 
+ 
+ 
+
+SCHEDULE 4: AGREED INFRASTRUCTURE DESIGN 
+
+Solution Prerequisites 
+
+ 
+Please find below prerequisites: 
+
+ 
+Support and ADCB to provide SME/s (technical & functional) availability throughout the 
+engagement as and when required. 
+ 
+Any required software or products required for Code Repositories, Version Control, CI/CD, 
+Project Management, Test management will be provided by ADCB. 
+ 
+In case of any of the SMEs belonging to other companies/vendors / 3rd parties barring 
+ADCB their presence and support should be ensured during the analysis phase. 
+ 
+All physical access for Xebia employees to the premises should be provided by ADCB 
+Response for the clarifications raised by Xebia on various phases of Testing within agreed 
+timelines. 
+ 
+Sign-off project plan along with other ADCB stakeholders. 
+ 
+Availability of sign-off and branding guidelines, images, scripts & content for UI/UX at least 
+two weeks before the development starts for the respective feature. 
+ 
+All hardware/software devices will be provided by the customer. Any third-party tools/ 
+certificates required will be procured and provided by ADCB Valid SSL certificates for all 
+environments. 
+ 
+ADCB to provide required port access in the firewall. 
+ 
+ADCB to help and facilitate coordination with Network team for modification/queries to 
+policies of Router, Firewalls, and other network equipment for onsite connectivity. 
+ 
+Support for session management across the channels. 
+ 
+Proposed Solution  
+ 
+Xebia proposes Cloud native architecture built using Microservices and container orchestration 
+platform. Microservices architecture has following characteristics that help us meet quality attributes 
+laid out in the previous section. 
+
+ 
+Application is developed as a suite of business focussed services that have their own 
+independent deployment lifecycle. 
+
+ 
+Each service can be independently replaced, upgraded, scaled, or deployed. 
+
+ 
+Lightweight communication model 
+
+ 
+Right technology for the right job 
+
+ 
+Facilitates A/B testing and canary deployment of services. 
+
+The services will be built in Java programming language using Spring Boot Microservices 
+framework. To reliably run and manage Microservices, as per discussions with ADCB, we shall be 
+using the EKS service of AWS. The entire platform shall be on AWS cloud and will follow the principle 
+of using managed services as much as possible subject to availability of services in the region.  
+
+Xebia’s Core Engineering & Platform team will ensure that all aspects of design, performance, 
+scalability, ease of deployment, and security will be inherent to the proposed solution architecture. 
+ADCB’s TouchPoints mobile app will be built with key quality attributes as listed below. 
+ 
+ 
+Availability: All components should be configured in a high availability configuration to eliminate 
+single point of failure and minimize solution outage. 
+
+ 
+Scalability: Application should be designed to independently scale up and down depending on the 
+load.  
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Page 40 Text ---
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+Cloud Ready: Application should be built keeping in mind 12 factor principles. Minimal migration 
+effort should be necessary to move application to cloud in future.  
+
+ 
+Performance: The aggregated page response time shall be strived to conform to the NFRs - To 
+be discussed and agreed during the discovery phase 
+
+ 
+Operability: Digital Platform should support 3 pillars of observability – Log aggregation, monitoring, 
+and distributed tracing. 
+
+ 
+Security: Security controls provide a stable, secure Digital Platform. 
+
+o 
+All traffic should be protected in transit. 
+o 
+Mask or tokenize personally identifiable information (PII) 
+o 
+Application will keep its client data safe. 
+o 
+PII data is not logged in clear text by the application. 
+o 
+Application should be built with secure coding practices. 
+o 
+Application should support auditability for all transactions. 
+
+ 
+Maintainability: Application should be built in a modular, reusable, and testable manner to support 
+future iterations 
+ 
+ 
+ 
+
+Indicative Technical Architecture 
+Below is the diagram representing technical architecture for the ADCB’s Touchpoints mobile app. 
+
+ 
+ 
+ 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 40) ---
+  0 1 2
+0      
+1      
+2      
+3      
+4      
+5      
+6      
+
+--- Table 2 (Page 40) ---
+  0 1 2 3 4 5
+0            
+1            
+2            
+3            
+4            
+5            
+
+--- Page 41 Text ---
+ 
+ 
+
+ 
+ 
+
+- 41- 
+
+ 
+ 
+ 
+ 
+
+ 
+Front-end Architecture - React based Mobile & Web App 
+
+ 
+ 
+ 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Page 42 Text ---
+ 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 42) ---
+  0 1 2 3 4
+0          
+1          
+2          
+3          
+4          
+5          
+
+--- Page 43 Text ---
+ 
+ 
+
+ 
+ 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 43) ---
+                                                                                      0 1
+0                       AREA \nTECHNOLOGY \nMicroservices \nModern Java and Spring Boot  
+1                                                                   Cloud & Infra \nAWS  
+2   Mobile Application \nReact Native or Flutter \n(will be discussed during discovery)  
+3        Admin Console \nReact JS or Flutter Web \n(will be discussed during discovery)  
+4                                                Database \nAurora PostgreSQL or Oracle  
+5                Logging platform \nAWS Open Search, Open Search Dashboard, \nFluentBit  
+6                               Message Queue \nAmazon MSK (Fully Managed Apache Kafka)  
+7                         Kubernetes Platform \nAmazon EKS (Elastic Kubernetes Service)  
+8                                                                  Service Mesh \nIstio  
+9                                                         API Gateway \nAWS API Gateway  
+10               Observability \nPrometheus, Grafana, Jaeger, Kiali/Existing APM \ntool  
+11                                                          CMS \nStrapi (Headless CMS)  
+12                                                          Cache \nElastic Cache Redis  
+13                                                                  IAM Tool \nKeycloak  
+14                                  Other AWS Service \nAWS Secret Manager, ECR, Lambda  
+
+--- Page 44 Text ---
+ 
+ 
+
+ 
+ 
+
+- 44- 
+
+ 
+ 
+ 
+ 
+
+Heroes –Xebia Accelerators 
+The following are the various accelerators that Xebia proposes to leverage for the Touchpoints mobile 
+app. 
+ 
+XMS (Xebia microservices) Template 
+Xebia has its own Microservices generator that we use to generate starter code for any new 
+Microservice. The generated Microservice has best practices baked into it. Some of these practices 
+are: 
+
+ 
+Starter code and package structure 
+ 
+Structured logging 
+ 
+gzipped response 
+ 
+External service connectivity like databases, message queue 
+ 
+Auditing 
+ 
+Prometheus Monitoring 
+ 
+Dockerfile 
+ 
+Database migration scripts 
+ 
+Random ports 
+ 
+Static code analysis using Checkstyle. 
+ 
+Health checks 
+ 
+Distributed tracing 
+
+Starter Kit of Mobile App 
+
+ 
+Application folder structure setup 
+ 
+Accelerator to create new module inside app structure. 
+ 
+Accelerator to create new widget inside app structure. 
+ 
+Linting rules integration 
+ 
+Pre-commit checks 
+ 
+Payload Encryption 
+ 
+Storybook integration 
+ 
+WebView plugin integration using core plugins. 
+ 
+UI Automation and Analytics friendly framework 
+ 
+The following accelerators will be explored and mutually agreed upon during the discovery phase. 
+XCESS 
+Most applications we see today require maintenance of a set of Master tables in the database to make 
+the application configurable. Creating Restful CRUD APIs for each one of these masters is a time-
+consuming process and adds to the overall technical debt of the project. 
+Xebia has created an accelerator, Xcess, to automate the process of CRUD API generation for any 
+provided set of tables in a database. Currently the following databases are supported: 
+
+ 
+Postgres and postgres compatible databases 
+ 
+MySQL 
+ 
+SQL Server 
+ 
+Oracle SQL DB 
+ 
+MongoDB 
+Xcess has the following advantages as compared to the writing/building the CRUD APIs from scratch: 
+
+1. Increased development velocity as APIs is updated instantly as tables are added/ modified/ 
+
+deleted. 
+2. Reduced technical dept by auto generating the CRUD APIs. 
+3. Ability to perform cross database joins using the GraphQL API. 
+4. Ability to create a REST API on for a custom SQL query. 
+5. Feature to change or modify database connection string without having to restart the service. 
+
+ 
+ 
+ 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Page 45 Text ---
+ 
+ 
+
+ 
+ 
+
+- 45- 
+
+ 
+ 
+ 
+ 
+
+XASSURE: 
+In-general, we leverage test management tools such as Jira and ALM for test management activities. 
+In addition, we have our own in-house tool XASSURE - An Intelligent testing platform which has a test 
+manager component. Key Features: 
+
+ 
+Executive Metrics Dashboards – Drill down dashboards from portfolio view of multiple 
+applications to individual test case level trend aligned to a specific application maintained 
+across releases. 
+ 
+Portfolio Management – Allows our customers to on-board multiple applications, staff and 
+environment for centralized control. 
+ 
+Test Environment Management – User can setup test environment for execution which can 
+be selected at time of script execution. 
+ 
+Test Suite Management – Create test suites containing test cases from different applications 
+for an end-to-end user flow or different technologies within same application. Test suite once 
+created are available to everyone in the team. 
+ 
+Test Result Analysis – Test results at test case and test step level post execution. Test 
+Engineers can filter test results based on status and share their analysis based on test 
+failures in addition to storing root cause for failure. 
+ 
+Integrations: It can also integrate well with popular test management tools like JIRA 
+ 
+Heroes – Transaction Categorization Engine – Powered by Gen AI (Accelerator) 
+Xebia proposes Transaction Categorization Engine to analyze and categorize the loyalty transactions 
+for the customer in real time. It will give the understanding to the customer on the context of the 
+transaction while adding derived attributes like Merchant Name, Category, Location and much more. 
+Key functionalities of our accelerator include: 
+Real-time Classification - Our engine uses real-time streaming platforms to enable real-time 
+classification of transactions and supports batch mode categorization as well. 
+Comprehensive Categorization - Apart from deriving the type of categories, it also derives the 
+merchant’s name, purpose (category) and location of the transaction. 
+Embedded Generative AI - The use of large language models (LLM) widens our categorization 
+coverage and solves cold start problems across multiple geographies, thus enabling faster adoption.  
+Contextual Recommendations - A better understanding of the context and patterns in users' 
+transactions helps recommendation systems to generate personalized recommendations for financial 
+products, services, or offers.   
+Category Adaptive to Your Needs - You can easily customize and refine the category and its 
+granularities according to your needs and preferences. 
+Reversal and Refund Transaction Linkage - Linking reversal and refund with the original 
+transactions based on transaction pattern simplifies tracking of money movement. 
+We would like to discuss on this accelerator and commercials involved during the discovery. 
+ 
+
+ 
+ 
+Please click Xebia’s Transaction Categorization Engine 
+ 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Page 46 Text ---
+ 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 46) ---
+                                                                              0       1       2       3       4       5       6       7       8       9        10       11       12       13       14       15       16       17       18       19       20       21       22       23       24       25       26       27       28       29       30       31       32             33       34       35       36
+0                                                                        Month #      M1                              M2                              M3                                  M4                                  M5                                  M6                                  M7                                  M8                             M9 (Warranty)                           
+1                                                                  Week starting  Week 1  Week 2  Week 3  Week 4  Week 5  Week 6  Week 7  Week 8  Week 9  Week 10  Week 11  Week 12  Week 13  Week 14  Week 15  Week 16  Week 17  Week 18  Week 19  Week 20  Week 21  Week 22  Week 23  Week 24  Week 25  Week 26  Week 27  Week 28  Week 29  Week 30  Week 31  Week 32        Week 33  Week 34  Week 35  Week 36
+2                                       Data Discovery and Requirement Gathering                                                                                                                                                                                                                                                                                                                                 
+3                                                             Loyalty Mobile App                                                                                                                                                                                                                                                                                                                                 
+4                                                Data / Application Integrations                                                                                                                                                                                                                                                                                                                                 
+5                                                         MVP 1 (ADCB Customers)                                                                                                                                                                                                                                                                                                                                 
+6                                               Solution and Architecture design                                                                                                                                                                                                                                                                                                                                 
+7                                            Database Design and API Integration                                                                                                                                                                                                                                                                                                                                 
+8   Registration and Login; Customer Informartion & Loyalty Engine \nIntegration                                                                                                                                                                                                                                                                                                                                 
+9                             Credit Card Linking and Biller Payments(Utilities)                                                                                                                                                                                                                                                                                                                                 
+10                                                          Credit Card Payments                                                                                                                                                                                                                                                                                                                                 
+11      P2P Transfer; Touchpoint Exchange/Buy; Transaction History \n/Statements                                                                                                                                                                                                                                                                                                                                 
+12                Other Features (Language, FAQ, Contact Us, Merchant List etc.)                                                                                                                                                                                                                                                                                                                                 
+13                                   Infrastructure design and Release pipelines                                                                                                                                                                                                                                                                                                                                 
+14                                                                   SIT Testing                                                                                                                                                                                                                                                                                                                                 
+15                                     MVP 2 (New Features + Non-ADCB Customers)                                                                                                                                                                                                                                                                                                                                 
+16                    Requirement Gathering, Registration for NON-ADCB Customers                                                                                                                                                                                                                                                                                                                                 
+17                                                                Refer and Earn                                                                                                                                                                                                                                                                                                                                 
+18    Gamification; Marketing Offers ; Preferences; Profile \nManagement; Search                                                                                                                                                                                                                                                                                                                                 
+19                                                  Contact Us - Chat/Email/Call                                                                                                                                                                                                                                                                                                                                 
+20                                     Credit Card Payments (Non ADCB Customers)                                                                                                                                                                                                                                                                                                                                 
+21                                  Development and Deployment of Harmony OS App                                                                                                                                                                                                                                                                                                                                 
+22                                             Admin Module- Login, Reports etc.                                                                                                                                                                                                                                                                                                                                 
+23                                                 SIT Testing & Test Automation                                                                                                                                                                                                                                                                                                                                 
+24                                    UAT and Sign Off,  Transition and Handover                                                                                                                                                                                                                                                                                                                                 
+25                                                     UAT and Solution sign-off                                                                                                                                                                    GO-LIVE                                                                                                     GO-LIVE                                          
+26                                                                    Early Care                                                                                                                                                                                                                                                                                                                                 
+27                         Knowledge Transition and Handover (IT, QA Automation)                                                                                                                                                                                                                                                                                                                                 
+
+--- Page 47 Text ---
+ 
+ 
+
+ 
+ 
+
+- 47- 
+
+ 
+ 
+ 
+ 
+
+for MVP 1. The same exercise happens in M8 for the MVP2 release. The transition and 
+handover processes are slated to conclude by the end of M9. 
+ 
+Warranty Period (M9): We understand the importance of post-deployment support. Hence, 
+M9 is entirely dedicated as a warranty period, ensuring that any potential hiccups are 
+addressed promptly. 
+ 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Page 48 Text ---
+ 
+ 
+
+Testing will be performed in Agile (Scrum) model, a practice that promotes continuous iteration of 
+development and testing throughout the software development lifecycle of the project. Both 
+development and testing activities concurrent. 
+
+Test Items: 
+ 
+Mobile Testing (iOS & Android) (UI + Functional) – English Language & Integration testing. 
+ 
+Testing will be performed: 
+
+Entry Criteria 
+● 
+All Regression testing is completed. 
+● 
+All identified Critical & Major defects have been resolved. 
+● 
+Test cases for UAT have been defined / developed by Client. 
+Exit Criteria 
+● 
+All identified User Acceptance test cases have been run. 
+● 
+All identified Critical & Major defects have been resolved. 
+● 
+Pass rate for all levels are: 
+- 99% (Pass test cases/Total test cases) 
+- No high/medium test cases ailed or un-executed 
+● 
+-Exceptional(Medium or Minor) bugs can be exist. 
+ 
+ 
+System Testing Entry / Exit: 
+Dedicated QA env. with stable code build Testcases ready for execution 
+No failures in sanity testing  
+ 
+UI and Functional Testing Entry / Exit: 
+The Requirement Specification document is defined and approved 
+Test Cases have been prepared 
+Test data has been created 
+The environment for testing is ready, all the tools that are required are available and ready Designs 
+are ready and approved  
+ 
+System Integration Testing Entry / Exit: 
+All necessary integration test cases have been prepared. 
+The test data has been created. 
+Developed modules and components unit testing has been completed.  
+ 
+Regression Testing Entry / Exit: 
+Regression Test Suite 
+Execution of all priorities testcases No P1 defects  
+Measures and Metrics: 
+Test Execution and Progress Manual  
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 48) ---
+                                                           0       1
+0                                               Testing Type    Mode
+1  UI & Functional(ST, SIT, Regression)  Manual + Automation        
+2                                       UAT Support by Xebia  Manual
+
+--- Table 2 (Page 48) ---
+                                                                                                                                                                                                                                                                                                                         0
+0                                                                                                                                                                                                                                                                                                           Entry Criteria
+1                                                                                                                                             All Regression testing is completed. \n● \nAll identified Critical & Major defects have been resolved. \n● \nTest cases for UAT have been defined / developed by Client. \n●
+2                                                                                                                                                                                                                                                                                                            Exit Criteria
+3  All identified User Acceptance test cases have been run. \n● \nAll identified Critical & Major defects have been resolved. \n● \nPass rate for all levels are: \n● \n- 99% (Pass test cases/Total test cases) \n- No high/medium test cases ailed or un-executed \n-Exceptional(Medium or Minor) bugs can be exist. \n●
+
+--- Page 49 Text ---
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Number of Tests Cases Executed v. Test Cases Planned Number of Test Cases Passed, Failed and 
+Blocked Defects (by Severity) 
+Weighted Defect Density / Feature / test case  
+ 
+ 
+Tech Stack:  
+ 
+API & Integration Testing: 
+ 
+
+Tech Stack 
+Name 
+API Automation tool 
+Rest Assured 
+Programming language 
+Java 
+Bug Tracking tool 
+Jira 
+Test Management tool 
+Zephyr Scale 
+Version Control tool 
+Github 
+ 
+Mobile Application automation:  
+ 
+
+Tech Stack 
+Name 
+Mobile Automation tool (IOS and Android) 
+Appium 
+Programming language 
+Java 
+Bug Tracking tool 
+Jira 
+Test Management tool 
+Zephyr Scale 
+Version Control tool 
+Github 
+Cloud Device Platform 
+Browser Stack 
+ 
+
+Software Requirement from ADCB: 
+
+Github 
+Automation 
+Yes 
+Jira 
+Bug Tracking 
+Yes 
+Zephyr Scale/Xray 
+Test Management 
+Yes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 49) ---
+                                                                                        0                                    1
+0                                                                              Tech Stack                                 Name
+1                                                                     API Automation tool                         Rest Assured
+2  Programming language \nBug Tracking tool \nTest Management tool \nVersion Control tool  Java \nJira \nZephyr Scale \nGithub
+
+--- Table 2 (Page 49) ---
+                                                                                                                                                           0                                                             1
+0                                                                                                                                                 Tech Stack                                                          Name
+1  Mobile Automation tool (IOS and Android) \nProgramming language \nBug Tracking tool \nTest Management tool \nVersion Control tool \nCloud Device Platform  Appium \nJava \nJira \nZephyr Scale \nGithub \nBrowser Stack
+
+--- Table 3 (Page 49) ---
+                                                                                                     0                                                                                                                                                       1                                                                                                 2
+0                                                                                       Software/Tools                                                                                                                                               What for?                                                                                      Paid License
+1  Java \nSelenium \nPostman \nAppium \nRestAssured \nBrowserstack \nGithub \nJira \nZephyr Scale/Xray  Automation \nAutomation \nAPI Manual \nMobile Automation \nAPI Automation \nMobile Automation & \nManual \nAutomation \nBug Tracking \nTest Management  Not Required \nNot Required \nNot Required \nNot Required \nNot Required \nYes \nYes \nYes \nYes
+
+--- Page 50 Text ---
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+Defect Workflow and Management:  
+ 
+
+ 
+ 
+ 
+ 
+All Defects are categorized based on JIRA Priority Severity Level  
+ 
+
+● 
+Severity indicates the possible urgency and impact of the defect based on in-scope 
+requirements. 
+● 
+Defects resolution order will be based on the “Priority Severity Level”.  
+ 
+ 
+
+ 
+ 
+ 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Table 1 (Page 50) ---
+                                            0                                                                                                                                                                                                                                             1                                                                                                      2
+0  JIRA Priority [Field] Severity Level Grid:                                                                                                                                                                                                                                                                                                                                                     
+1                                       Level                                                                                                                                                                                                                                   Description                                                                                                Example
+2                                1 \nCritical                                                                         Prevents forward progression in all primary paths \nfor a critical flow, and there is no work-around.  \nSevere usability problems, the loss or corruption of \ndata.                                                        - Unable to register/signup \n- Unable to login
+3                                   2 \nMajor  Prevents forward progress in some flows; primary \nflow unusable or inaccessible, however alternate \nflow or work-around may be available for UI issues \nthat prevent the execution of a critical flow such as \nnoted in Blocker examples                                 - Virtual card is not displaying \n- User data displayed is incorrect.
+4                                  3 \nMedium                                                                                      Unmet requirement  criteria; User Interface [UI] \nissues that make app content illegible or functional \nelements unusable; issues with product imagery  - Search button doesn't work when \nthe user presses "enter", works \ncorrectly when taps the button.
+5                                   4 \nMinor                                                                               Minor UI-related alignment issues or non-product \nimage issues. May include minor functional defects, \nor defects that only occur under extreme edge \ncases.                               - button not aligned correctly on a \nparticular device/platform version
+
+--- Page 51 Text ---
+ 
+ 
+
+ 
+ 
+
+- 51- 
+
+ 
+ 
+ 
+ 
+
+ 
+
+SCHEDULE 7: EXIT MANAGEMENT PLAN 
+
+Complete Handover inclusive of a  knowledge transfer phase, document handover, any hardware 
+device handover and revocation of access will be done in case either party decides to terminate or not 
+renew the contract at the end of expiry. 
+
+A more detailed handover plan will be published in case such a situation arises. 
+ 
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
+
+--- Page 52 Text ---
+ 
+ 
+
+ 
+ 
+
+- 52- 
+
+ 
+ 
+ 
+ 
+
+SCHEDULE 8: SERVICES GUARANTEE 
+
+Not Applicable  
+
+DocuSign Envelope ID: 29AABD0F-6ADE-4E43-AF07-33A5481BE97D
+
